@@ -16,7 +16,7 @@ Cada PC se conecta directo con la de sus contactos, con conexión cifrada.
 
 ### [⬇️ Descargar M2N-Instalador.exe](../../raw/main/M2N-Instalador.exe)
 
-[![Colaborar](https://img.shields.io/badge/☕%20Colaborar-invitame%20un%20cafecito-ff6f00?style=for-the-badge)](https://cafecito.app/TU_USUARIO)
+[![Colaborar](https://img.shields.io/badge/❤️%20Colaborar-con%20el%20proyecto-ff5e5b?style=for-the-badge)](#-colaborar)
 
 </div>
 
@@ -149,7 +149,10 @@ Si M2N te gusta y querés apoyar el proyecto:
 
 <div align="center">
 
-[![Invitame un cafecito](https://img.shields.io/badge/☕%20Invitame%20un%20cafecito-ff6f00?style=for-the-badge)](https://cafecito.app/TU_USUARIO)
+[![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-Uruguay-00b1ea?style=for-the-badge&logo=mercadopago&logoColor=white)](https://link.mercadopago.com.uy/m2n)
+[![PayPal](https://img.shields.io/badge/PayPal-Donar-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=DFL2E7XH6QAF6&currency_code=USD)
+
+<sub>🇺🇾 Desde Uruguay: Mercado Pago · 🌎 Desde cualquier país: PayPal</sub>
 
 </div>
 
