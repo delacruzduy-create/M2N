@@ -1,4 +1,3 @@
-# M2N
 <div align="center">
 
 <img src="docs/img/logo.png" alt="M2N" width="200">
@@ -15,7 +14,9 @@ Cada PC se conecta directo con la de sus contactos, con conexión cifrada.
 [![Hecho con Go](https://img.shields.io/badge/hecho%20con-Go-00add8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![Sin servidores](https://img.shields.io/badge/servidores-0-43a047?style=for-the-badge)](#-cómo-funciona)
 
-### [⬇️ Descargar M2N-Instalador.exe](../../releases/latest/download/M2N-Instalador.exe)
+### [⬇️ Descargar M2N-Instalador.exe](../../raw/main/M2N-Instalador.exe)
+
+[![Colaborar](https://img.shields.io/badge/☕%20Colaborar-invitame%20un%20cafecito-ff6f00?style=for-the-badge)](https://cafecito.app/TU_USUARIO)
 
 </div>
 
@@ -44,6 +45,10 @@ Cada PC se conecta directo con la de sus contactos, con conexión cifrada.
 - 🔑 **Tu propio PIN.** Cada equipo recibe un PIN único de 8 caracteres. Tus amigos te agregan con tu PIN y vos a ellos con el suyo.
 - 📡 **Encuentra gente en tu red.** M2N muestra quién más lo tiene abierto en la misma Wi-Fi o red cableada.
 - 💬 **Mensajes, zumbidos y guiños**, como en el mensajero de siempre.
+- 😄 **Emoticones, GIFs, fondos y cambio de fuente** para darle onda a la conversación.
+- ✍️ **Escribir a mano**: mandá dibujos o mensajes escritos con el mouse.
+- 📷 **Cámara y audio** con tus contactos.
+- 🎮 **Juegos**: jugá al ta-te-ti sin salir del chat.
 - 🟢 **Estados y mensaje personal**: Disponible, Ocupado, Ausente… y una frase debajo de tu nombre.
 - 🖼️ **Avatares**: elegí uno de los incluidos o usá una imagen tuya (también GIF).
 - 📁 **Envío de archivos** entre contactos.
@@ -57,7 +62,7 @@ Cada PC se conecta directo con la de sus contactos, con conexión cifrada.
 
 ## 🚀 Instalación
 
-1. Descargá **[M2N-Instalador.exe](../../releases/latest/download/M2N-Instalador.exe)** desde la sección *Releases*.
+1. Descargá **[M2N-Instalador.exe](../../raw/main/M2N-Instalador.exe)** (o desde la sección *Releases*).
 2. Abrilo. Se abre el asistente de instalación, donde podés elegir:
    - ☑️ Crear un acceso directo en el escritorio
    - ☐ Abrir M2N al iniciar Windows
@@ -135,6 +140,22 @@ No, mientras no borres la carpeta <code>%APPDATA%\M2N</code>.
 
 - Windows 10 u 11 (64 bits)
 - Conexión a una red local (Wi-Fi o cable)
+
+---
+
+## 🤝 Colaborar
+
+Si M2N te gusta y querés apoyar el proyecto:
+
+<div align="center">
+
+[![Invitame un cafecito](https://img.shields.io/badge/☕%20Invitame%20un%20cafecito-ff6f00?style=for-the-badge)](https://cafecito.app/TU_USUARIO)
+
+</div>
+
+- ⭐ Dale una **estrella** al repositorio.
+- 🐞 ¿Encontraste un error o tenés una idea? Abrí un **[Issue](../../issues/new)**.
+- 📣 Compartilo con tus amigos.
 
 ---
 
